@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou Rafael
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
+🎓 Formado em Análise e Desenvolvimento de Sistemas   
 💻 Entusiasta em desenvolvimento de software  
 🚀 Buscando oportunidades para crescer na área de tecnologia
 
@@ -15,9 +15,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-%2300bfff?style=for-the-badge&logo=vercel&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-%23008f39?style=for-the-badge&logo=server&logoColor=white)
-
 
 
 
