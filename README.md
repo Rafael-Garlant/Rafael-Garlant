@@ -32,7 +32,7 @@ Projeto acadêmico desenvolvido com foco em um sistema completo de CRUD. O blog 
 ## 📫 Como me encontrar
 
 * Email: [rafael05garlant@gmail.com](mailto:rafael05garlant@gmail.com)  
-* LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/rafael-garlant)
+* LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/rafaelgarlant)
 
 ---
 
