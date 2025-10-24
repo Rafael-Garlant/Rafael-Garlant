@@ -40,7 +40,7 @@ Projeto acadêmico desenvolvido com foco em um sistema completo de CRUD. O blog 
   <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Garlant&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafael-Garlant&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
