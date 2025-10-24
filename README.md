@@ -40,7 +40,15 @@ Projeto acadêmico desenvolvido com foco em um sistema completo de CRUD. O blog 
   <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Garlant&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafael-Garlant&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+## 📈 Meu Desempenho no GitHub
+
+Aqui você pode acompanhar minha consistência e progresso geral na plataforma!
+
+<p align="center">
+    <img src="https://github-contributions-api.jogruber.de/v1/SEU_USUARIO_AQUI?chart=calendar&title=Contribuições%20de%20Código" alt="Calendário de Contribuições no GitHub" />
+</p>
+
+---
 
 ---
 
