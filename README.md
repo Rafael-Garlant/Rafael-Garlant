@@ -45,7 +45,7 @@ Projeto acadêmico desenvolvido com foco em um sistema completo de CRUD. O blog 
 Aqui você pode acompanhar minha consistência e progresso geral na plataforma!
 
 <p align="center">
-    <img src="https://github-contributions-api.jogruber.de/v1/SEU_USUARIO_AQUI?chart=calendar&title=Contribuições%20de%20Código" alt="Calendário de Contribuições no GitHub" />
+    <img src="https://github-contributions-api.jogruber.de/v1/Rafael-Garlant?chart=calendar&title=Contribuições%20de%20Código" alt="Calendário de Contribuições no GitHub" />
 </p>
 
 ---
