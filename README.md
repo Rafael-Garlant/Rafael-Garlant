@@ -46,6 +46,7 @@ Aqui você pode acompanhar minha consistência e progresso geral na plataforma!
 
 <p align="center">
     <img src="https://github-contributions-api.jogruber.de/v1/Rafael-Garlant?chart=calendar&title=Contribuições%20de%20Código" alt="Calendário de Contribuições no GitHub" />
+  [![GitHub Ação de Contribuição](https://github-contributions-api.jogruber.de/v1/Rafael-Garlant?chart=calendar&title=Contribuições%20de%20Código)](https://github.com/johannes-jogruber/github-contributions-api)
 </p>
 
 ---
